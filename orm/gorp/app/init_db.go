@@ -14,8 +14,8 @@ import (
 
 	// mysql package.
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
-	"github.com/revel/revel"
-	"github.com/revel/revel/logger"
+	"github.com/ilyaqq1999/revel"
+	"github.com/ilyaqq1999/revel/logger"
 )
 
 var (

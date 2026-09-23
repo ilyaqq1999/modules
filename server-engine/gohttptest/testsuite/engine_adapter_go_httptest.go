@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/revel/revel"
-	"github.com/revel/revel/utils"
+	"github.com/ilyaqq1999/revel"
+	"github.com/ilyaqq1999/revel/utils"
 	"golang.org/x/net/websocket"
 )
 

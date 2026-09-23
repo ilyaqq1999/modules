@@ -5,8 +5,8 @@ import (
 
 	sq "github.com/Masterminds/squirrel"
 	"github.com/go-gorp/gorp"
-	"github.com/revel/revel"
-	"github.com/revel/revel/logger"
+	"github.com/ilyaqq1999/revel"
+	"github.com/ilyaqq1999/revel/logger"
 )
 
 // DB Gorp.
