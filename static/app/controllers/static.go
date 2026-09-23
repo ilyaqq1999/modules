@@ -13,8 +13,8 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/revel/modules/static/app/model"
-	"github.com/revel/revel"
+	"github.com/ilyaqq1999/modules/static/app/model"
+	"github.com/ilyaqq1999/revel"
 )
 
 // Static file serving controller.

@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/revel/revel"
+	"github.com/ilyaqq1999/revel"
 )
 
 func init() {

@@ -3,8 +3,8 @@ package gorpcontroller
 import (
 	"database/sql"
 
-	gorp "github.com/revel/modules/orm/gorp/app"
-	"github.com/revel/revel"
+	gorp "github.com/ilyaqq1999/modules/orm/gorp/app"
+	"github.com/ilyaqq1999/revel"
 )
 
 // Controller definition for database transaction
